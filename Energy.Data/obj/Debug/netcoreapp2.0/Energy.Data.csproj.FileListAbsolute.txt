@@ -1,0 +1,14 @@
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\bin\Debug\netcoreapp2.0\Energy.Data.deps.json
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\bin\Debug\netcoreapp2.0\Energy.Data.dll
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\obj\Debug\netcoreapp2.0\Energy.Data.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\obj\Debug\netcoreapp2.0\Energy.Data.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\obj\Debug\netcoreapp2.0\Energy.Data.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\obj\Debug\netcoreapp2.0\Energy.Data.AssemblyInfo.cs
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\bin\Debug\netcoreapp2.0\Energy.Data.runtimeconfig.json
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\bin\Debug\netcoreapp2.0\Energy.Data.runtimeconfig.dev.json
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\bin\Debug\netcoreapp2.0\Energy.Data.pdb
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\bin\Debug\netcoreapp2.0\Energy.Domain.dll
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\bin\Debug\netcoreapp2.0\Energy.Domain.pdb
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\obj\Debug\netcoreapp2.0\Energy.Data.csproj.CopyComplete
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\obj\Debug\netcoreapp2.0\Energy.Data.dll
+c:\users\administrator\source\repos\Energy.Data\Energy.Data\obj\Debug\netcoreapp2.0\Energy.Data.pdb
